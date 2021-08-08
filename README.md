@@ -2,6 +2,8 @@
 
 ![20210808093958](https://github.com/hinkleung/hinkleung/blob/main/src/20210808093958.jpg)
 
+<p align="right">photo by Dezai</p>
+
 ## About
 - 🔭 I’m currently working in Shenzhen,Guangdong
 
