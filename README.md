@@ -7,7 +7,9 @@
 ## About
 - 🔭 I’m currently working in Shenzhen,Guangdong
 
-- 🌱 I mostly focus on *Java* backend development
+- 🌱 I mostly focus on *Java* development
+
+- 📖 Want to be a lifetime learner
 
 - 📫 How to reach me: 394869042@qq.com
   
