@@ -1,4 +1,4 @@
-# Hi, I'm Hinkleung 👋
+# Hi, I'm Liam 👋
 
 ![20210808093958](https://github.com/hinkleung/hinkleung/blob/main/src/20210808093958.jpg)
 
